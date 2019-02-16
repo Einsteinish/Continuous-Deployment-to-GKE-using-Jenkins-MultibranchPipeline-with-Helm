@@ -490,3 +490,6 @@ Things to consider:
 Clean up is really easy, but also super important: if we don't follow these instructions, we will continue to be billed for the Google Container Engine cluster we created.
 
 To clean up, navigate to the [Google Developers Console Project List](https://console.developers.google.com/project), choose the project we created for this lab, and delete it. That's it.
+
+## Credit
+[Continuous Delivery with Jenkins in Kubernetes Engine](https://github.com/GoogleCloudPlatform/continuous-deployment-on-kubernetes.git)
