@@ -1,5 +1,9 @@
 # Build a Continuous Deployment Multibranch Pipeline with Jenkins and Kubernetes
 
+## Tutorial
+[Docker : Continuous Delivery with Jenkins Multibranch Pipeline for Dev, Canary, and Production Environments on GCP Kubernetes  
+ Engine](https://bogotobogo.com/DevOps/Docker/Docker-Continuous-Delivery-with-Jenkins-Multibranch-Pipeline-for-Dev-Canary-Production-Environments-GCP-Kubernetes-Engine-Namespace.php)
+
 
 ## Introduction
 
